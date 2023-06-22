@@ -3,8 +3,8 @@ $(document).ready(function () {
           wrapperClass: "slider-list",
       slideClass: "slider-item",
       navigation: {
-        nextEl: '.next-slide-0',
-        prevEl: '.prev-slide-0'
+        nextEl: '.next-slide',
+        prevEl: '.prev-slide'
       },
       pagination: {
           type: 'bullets',
