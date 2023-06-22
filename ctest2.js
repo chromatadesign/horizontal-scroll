@@ -12,7 +12,7 @@ $(document).ready(function () {
       clickable: true,
     },
     autoplay: {
-      delay: 0,
+      delay: 10,
       disableOnInteraction: true, 
     },
     speed: 1500,
