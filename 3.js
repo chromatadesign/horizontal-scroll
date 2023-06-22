@@ -1,6 +1,3 @@
-// add library before code <link rel="stylesheet"
-// href="https://unpkg.com/swiper/swiper-bundle.min.css" /> <script
-// src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 $(document).ready(function () {
       var slider_wrapper = new Swiper(".slider-wrapper", {
           wrapperClass: "slider-list",
