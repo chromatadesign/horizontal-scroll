@@ -14,7 +14,7 @@ $(document).ready(function () {
       },
   autoplay: {
           delay: 2000,
-    disableOnInteraction: true,
+    disableOnHover: true,
 
       },
   speed: 700,
