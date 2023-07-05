@@ -11,10 +11,10 @@ $(document).ready(function () {
       clickable: true,
     },
     autoplay: {
-      delay: 0.1,
+      delay: 0.01,
       disableOnInteraction: true, 
     },
-    speed: 3000,
+    speed: 2000,
     slidesPerView: 'auto',
     loop: true,
     on: {
