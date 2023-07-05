@@ -14,7 +14,7 @@ $(document).ready(function () {
       delay: 0.01,
       disableOnInteraction: true, 
     },
-    speed: 1800,
+    speed: 2500,
     slidesPerView: 'auto',
     loop: true,
     on: {
