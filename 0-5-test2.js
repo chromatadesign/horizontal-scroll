@@ -11,10 +11,9 @@ $(document).ready(function () {
       clickable: true,
     },
     autoplay: {
-      delay: 200,
       disableOnInteraction: true, 
     },
-    speed: 700,
+    speed: 400,
     slidesPerView: 'auto',
     loop: true,
     on: {
