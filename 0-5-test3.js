@@ -11,6 +11,7 @@ $(document).ready(function () {
       clickable: true,
     },
     autoplay: {
+      delay: 0.1,
       disableOnInteraction: true, 
     },
     speed: 400,
