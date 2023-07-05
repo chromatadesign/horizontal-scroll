@@ -8,7 +8,6 @@ $(document).ready(function () {
     },
     pagination: {
       type: 'bullets',
-      el: '.pagination',
       clickable: true,
     },
     autoplay: {
